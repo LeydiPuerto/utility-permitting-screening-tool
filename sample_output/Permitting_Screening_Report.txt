@@ -1,0 +1,69 @@
+============================================================
+AUTOMATED ENVIRONMENTAL PERMITTING SCREENING REPORT
+UTILITY INFRASTRUCTURE PROJECT — NORTHERN CALIFORNIA
+============================================================
+Generated: 2026-07-05 19:08
+Tool: ArcPy Environmental Screening Tool v1.0
+Author: Leydi Patricia Puerto Bohorquez
+Credentials: MS Environmental Management, USF | Certificate in Geospatial Information Science, GsAL Lab USF
+Current Role: Permit Facilitator, PG&E Northern California
+Project: Potrero to Marina Transmission Corridor
+Utility: Pacific Gas and Electric (PG&E)
+Location: San Francisco, California
+Coordinates: 37.75683N, 122.38635W
+Buffer Applied: 500 Feet
+============================================================
+
+EXECUTIVE SUMMARY
+----------------------------------------
+Environmental Constraints Screened: 5
+Constraints Flagged: 0
+Constraints Clear: 5
+Hydrological Risk Level: HIGH
+
+ENVIRONMENTAL CONSTRAINT SCREENING RESULTS
+----------------------------------------
+
+Wetlands:
+  Status: CLEAR
+  No constraints detected within project buffer
+
+Floodplains:
+  Status: CLEAR
+  No constraints detected within project buffer
+
+Streams:
+  Status: CLEAR
+  No constraints detected within project buffer
+
+CriticalHabitat:
+  Status: CLEAR
+  No constraints detected within project buffer
+
+ProtectedAreas:
+  Status: CLEAR
+  No constraints detected within project buffer
+
+HYDROLOGICAL PROXIMITY ANALYSIS
+----------------------------------------
+  Risk Level: HIGH
+  Finding: Project is -1.0 ft from nearest waterway. Section 404/401 permits highly likely.
+
+METHODOLOGY
+----------------------------------------
+This tool uses ArcPy spatial analysis to automatically screen
+utility infrastructure project locations against federal and
+state environmental constraint layers, replacing manual data
+cross-referencing with automated GIS-based environmental
+impact screening for U.S. utility infrastructure permitting.
+
+Data Sources:
+  - USFWS National Wetlands Inventory (NWI)
+  - FEMA National Flood Hazard Layer
+  - USGS National Hydrography Dataset (NHD)
+  - USFWS Critical Habitat Database
+  - California Protected Areas Database (CAPAD)
+
+Total Environmental Features Processed: 5,376,456
+============================================================
+END OF REPORT
