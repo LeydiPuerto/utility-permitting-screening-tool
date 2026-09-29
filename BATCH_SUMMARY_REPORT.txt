@@ -1,0 +1,56 @@
+=================================================================
+BATCH ENVIRONMENTAL PERMITTING SCREENING
+MASTER SUMMARY REPORT
+=================================================================
+Generated:   2026-09-28 19:50
+Tool:        ArcPy Environmental Screening Tool v4.0
+Author:      Leydi Patricia Puerto Bohorquez
+Role:        Permit Facilitator, PG&E Northern California
+Projects:    5
+=================================================================
+
+PORTFOLIO OVERVIEW
+----------------------------------------
+Total Projects Screened:    5
+Projects with Permits:      5
+Projects Clear (No Permits): 0
+High Hydrological Risk:     5
+Total Permit Triggers:      6
+
+PROJECT BY PROJECT RESULTS
+----------------------------------------
+
+PGE-001: Potrero to Marina Transmission Corridor
+  Permits Triggered: 1
+    - CAL FIRE Building Standards and Fire Safe Regulations
+  Hydrological Risk: HIGH — IMMEDIATE ACTION REQUIRED
+  Full Report: C:\Users\PATRICIA\Documents\Work Paperwork\EB-2 NIW\Phyton_Arcpy\Outputs\PGE-001\Report_PGE-001.txt
+
+PGE-002: Mission District Substation
+  Permits Triggered: 1
+    - CAL FIRE Building Standards and Fire Safe Regulations
+  Hydrological Risk: HIGH — IMMEDIATE ACTION REQUIRED
+  Full Report: C:\Users\PATRICIA\Documents\Work Paperwork\EB-2 NIW\Phyton_Arcpy\Outputs\PGE-002\Report_PGE-002.txt
+
+PGE-003: Sunset District Distribution Line
+  Permits Triggered: 1
+    - CAL FIRE Building Standards and Fire Safe Regulations
+  Hydrological Risk: HIGH — IMMEDIATE ACTION REQUIRED
+  Full Report: C:\Users\PATRICIA\Documents\Work Paperwork\EB-2 NIW\Phyton_Arcpy\Outputs\PGE-003\Report_PGE-003.txt
+
+PGE-004: Bayview Utility Corridor
+  Permits Triggered: 1
+    - CAL FIRE Building Standards and Fire Safe Regulations
+  Hydrological Risk: HIGH — IMMEDIATE ACTION REQUIRED
+  Full Report: C:\Users\PATRICIA\Documents\Work Paperwork\EB-2 NIW\Phyton_Arcpy\Outputs\PGE-004\Report_PGE-004.txt
+
+PGE-005: Richmond District Infrastructure
+  Permits Triggered: 2
+    - California Environmental Quality Act (CEQA) Review
+    - CAL FIRE Building Standards and Fire Safe Regulations
+  Hydrological Risk: HIGH — IMMEDIATE ACTION REQUIRED
+  Full Report: C:\Users\PATRICIA\Documents\Work Paperwork\EB-2 NIW\Phyton_Arcpy\Outputs\PGE-005\Report_PGE-005.txt
+
+=================================================================
+END OF BATCH SUMMARY
+=================================================================
