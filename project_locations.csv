@@ -1,6 +1,0 @@
-project_id,project_name,utility,latitude,longitude,buffer_ft,project_type,notes
-PGE-001,Potrero to Marina Transmission Corridor,Pacific Gas and Electric (PG&E),37.75683,-122.38635,500,Electric Transmission,Active project - Northern California
-PGE-002,Mission District Substation,Pacific Gas and Electric (PG&E),37.76200,-122.41900,500,Electric Substation,Planned upgrade
-PGE-003,Sunset District Distribution Line,Pacific Gas and Electric (PG&E),37.75100,-122.47800,500,Electric Distribution,New capacity project
-PGE-004,Bayview Utility Corridor,Pacific Gas and Electric (PG&E),37.72800,-122.38900,500,Gas Transmission,Maintenance and capacity
-PGE-005,Richmond District Infrastructure,Pacific Gas and Electric (PG&E),37.77900,-122.46400,500,Electric Distribution,Grid modernization
