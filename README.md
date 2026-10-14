@@ -2,7 +2,7 @@
 
 **Author:** Leydi Patricia Puerto Bohorquez  
 **Credentials:** MS Environmental Management, University of San Francisco | Certificate in Geospatial Information Science, GsAL Lab USF  
-**Current Role:** Permit Facilitator, Pacific Gas & Electric (PG&E), Northern California  
+
 
 ---
 
