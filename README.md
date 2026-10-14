@@ -82,3 +82,6 @@ This tool directly supports national priorities in:
 ## Status
 
 Active development — Version 1.0 in progress
+## Live Web Layer
+View the screening results on ArcGIS Online:
+https://usfca.maps.arcgis.com/home/item.html?id=547b95d03a3e4c7a86f6b98ea52bde91
